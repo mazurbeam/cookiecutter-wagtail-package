@@ -1,6 +1,6 @@
 # cookiecutter-wagtail-package
 
-A cookiecutter template for building Wagtail add-on packages.
+A cookiecutter template for building Wagtail add-on packages. Forked from https://github.com/wagtail/cookiecutter-wagtail-package
 
 ## What's included
 
@@ -32,7 +32,7 @@ Firstly install cookiecutter:
 
 Then run it like so:
 
-    cookiecutter git@github.com:wagtail/cookiecutter-wagtail-package.git
+    cookiecutter git@github.com:mazurbeam/cookiecutter-wagtail-package.git
 
 It'll ask for some details about you (name and email) and your project.
 
